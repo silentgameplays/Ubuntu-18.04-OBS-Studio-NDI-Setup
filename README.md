@@ -7,8 +7,7 @@ Ubuntu 18.04 and up Fix for NDI plugin for OBS Since Canonical now only provides
 
     * sudo apt install ffmpeg
     * sudo apt install obs-studio
-    * sudo apt-get install libnvidia-encode1
-
+ 
     Install NDI pugin and library for OBS-Studio:
 
 2. NDI for OBS-Studio download .deb files here:https://github.com/Palakis/obs-ndi/releases/tag/4.7.1
